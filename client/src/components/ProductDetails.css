@@ -1,0 +1,17 @@
+.hr1{
+  border-bottom: 2px solid rgb(214, 211, 211);
+  padding-bottom: 30px;
+}
+
+.bt1{
+  border: 1px solid black;
+  background-color: white; 
+  border-radius: 3px;
+}
+
+.bt2{
+  border: 1px solid black;
+  background-color: goldenrod;
+  color: white;
+  border-radius: 3px;
+}
